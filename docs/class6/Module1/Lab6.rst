@@ -28,7 +28,7 @@ On the **ACTIVE** BIG-IP:
 
 #. **Navigate to**: Network > Interfaces, and place checkmark next to interface 1.1 then click on the **Disable** button:
 
-   .. image:: ../images/image100.PNG
+    .. image:: ../images/image100.PNG
 
 #. During this time, observe the BIG-IP status in the upper-left corner of each BIG-IP.
 
